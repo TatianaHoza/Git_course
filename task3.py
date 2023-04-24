@@ -42,3 +42,4 @@ c.bind('<Button-3>',pom)
 
 c.pack()
 root.mainloop()
+print('Светофор работает')
